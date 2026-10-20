@@ -1,0 +1,6 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.${APP_ENV}.local
+/var/
+/vendor/
+###< symfony/framework-bundle ###
